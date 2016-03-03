@@ -80,8 +80,7 @@ title: Eutro
         <table border="0">
             <tr>
                 <td style="text-align: center;">
-                    <p><a href="https://uit.no/ansatte/organisasjon/artikkel?p_document_id=331416&amp;p_dimension_id=88111&amp;p_menu=155466"><img src="https://uit.no/Content/175276/Flag_United%20Kingdom.jpg" alt="In English.jpg" width="24" height="22" border="0" /></a><br />English version in prep.</p>
-                    <p>&nbsp;</p>
+                    
                 </td>
             </tr>
             <tr>
