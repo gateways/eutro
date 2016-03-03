@@ -53,14 +53,14 @@
     <script type='text/javascript' src='https://uit.no/ressurs/iknowbase/iknowbase-full-min.js'></script>
     <script type='text/javascript' src='https://uit.no/ressurs/evita/iKBDesktop/javascript/iknowbase-common-full-min.js' charset='windows-1252'></script>
     <script type='text/javascript'>iKnowBase.init({ikbLanguage:'n',locale:'nb',locations:{ikbViewer:'https://uit.no',resource:'https://uit.no/ressurs'},isPage:true});</script>
-    <script>
+    <!--<script>
 jQuery().ready(function($) {
     iKnowBase.ensure ( iKnowBase.ensures.cluetip, function(){
         $('a.ikb-cluetip-url').cluetip({clickThrough:true});
         $('a.ikb-cluetip-title').cluetip({splitTitle:'|', showTitle:false, clickThrough:true});
     });
 });
-    </script>
+    </script>-->
     <!-- Slutt på hardkodede scripts og css -->
     <!-- Bootstrap -->
     <script src="https://uit.no/ressurs/uit/webmain/js/bootstrap.min.js" type="text/javascript"></script>
@@ -116,19 +116,11 @@ jQuery().ready(function($) {
             <div class="container">
                 <div class="top-bar">
                     <div class="pull-right">
-                        <a href="https://en.uit.no"><img src="/ressurs/uit/images/engelskFlagg.gif" width="20" height="13" alt="Flag icon" /></a>
                     </div>
 
                     <div class="pull-right hidden-xs" style="padding-right:10px;">
 
                         <div class="tools">
-                            <!-- tools -->
-                            <a id="tools_size" href="https://uit.no/om/orakelet/frag?p_document_id=367462" tabindex="200">
-                                <div class="meny0"><span style="font-size:0.7em;">A </span><span style="font-size:0.9em;">A </span><span style="font-size:1.1em;">A</span><span class="mellom"></span></div>
-                                <span class="box">
-                                    <span class="text">Trykk Ctrl/Cmd-tasten og + eller - for å forstørre eller forminske nettsiden.</span>
-                                </span><!-- /.box -->
-                            </a>
                         </div><!-- /.tools -->
                     </div>
 
@@ -143,44 +135,14 @@ jQuery().ready(function($) {
                             <li class="hidden-xs"><a href="https://uit.no/nyheter/rss" target="_blank" title="Abonnér på UiTs informasjon"><i class="fa fa-rss-square"></i></a></li>
                             <!--<li class="hidden-xs"><a href="https://uit.no/formM2?p_style_id=188740" target="_blank"><i class="fa fa-question-circle"></i></a></li>-->
                             <li></li>
-
-                            <li><a style="cursor:pointer;" data-toggle="modal" data-target="#roleMenu">For studenter</a></li>
-                            <li><a style="cursor:pointer;" data-toggle="modal" data-target="#roleMenuAns">For ansatte</a></li>
-
+                            
                         </ul>
 
                     </div>
                 </div><!--top-bar-->
             </div>
         </div><!--top bar wrap end-->
-
-        <div class="modal fade" id="roleMenu" tabindex="-1" role="dialog" aria-labelledby="roleMenuLabel" aria-hidden="true" style="display: none;">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
-                        <h4 class="modal-title" id="roleMenuLabel"><strong>Snarveier for studenter</strong></h4>
-                    </div>
-                    <div class="modal-body">
-                        <iframe title="Snarveier for studenter" class="roleframe" src="/inter15/publish/rolemenu"></iframe>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="modal fade" id="roleMenuAns" tabindex="-1" role="dialog" aria-labelledby="roleMenuAnsLabel" aria-hidden="true" style="display: none;">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
-                        <h4 class="modal-title" id="roleMenuAnsLabel"><strong>Snarveier for ansatte</strong></h4>
-                    </div>
-                    <div class="modal-body">
-                        <iframe title="Snarveier for ansatte" class="roleframe" src="https://uit.no/inter15/publish/rolemenuAns"></iframe>
-                    </div>
-                </div>
-            </div>
-        </div>
+        
     </header>
 
     
@@ -228,55 +190,7 @@ jQuery().ready(function($) {
 
 
 
-
-    <div class="bread-wrap   hidden-xs ">
-        <div class="container">
-            <div class="row">
-
-                <div class="col-sm-12 text-left">
-                    <ol class="breadcrumb">
-
-                        <!--
-
-
-                                                    <li><a href="/startsida">Startsida</a></li>
-
-
-
-
-
-
-
-                                                    <li><a href="/startsida">Om UiT</a></li>
-
-
-
-
-                        -->
-                        <li><a href="https://uit.no/om/enhet/forsiden?p_dimension_id=88111">Institutt for samfunnsmedisin</a></li>
-
-                        <li class="ikkevis">artikkel</li>
-
-
-
-
-
-                        <li class="act">
-                            EUTRO Forskningsdata i system
-                        </li>
-
-
-
-
-
-
-
-                    </ol><!--breadcrumb-->
-                </div>
-            </div>
-        </div>
-    </div><!--.bread-wrap-->
-
+    
 
     <div id="content">
 
@@ -391,149 +305,7 @@ jQuery().ready(function($) {
         <div class="divide50"></div>
 
 
-
-        <div class="hidden-xs">
-            <a class="btn btn-full footerknappindex navbar-fixed-bottom" role="button" data-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
-                <i class="fa fa-arrows-v"></i> &nbsp;&nbsp; KONTAKT OSS / BUNNMENY &nbsp;&nbsp; <i class="fa fa-arrows-v"></i>
-            </a>
-
-            <div class="collapse footerindex" id="collapseExample">
-                <div class="well2">
-                    <div class="container">
-                        <div class="row">
-
-                            <div class="col-sm-4 margin30">
-                                <div class="footer-col">
-                                    <h3 class="heading"><a href="/utdanning">Utdanning</a></h3>
-                                    <ul class="footer">
-                                        <li><a href="/studietilbud">Finn studieprogram</a></li>
-                                        <li><a href="/studietilbud/emner?ar=2016&semester=V&sted=179933">Finn emne</a></li>
-                                        <li><a href="/studietilbud/yrker">Finn yrke</a></li>
-                                    </ul>
-                                </div>
-
-                                <div class="footer-col">
-                                    <h3 class="heading"><a href="/forskning">Forskning</a></h3>
-                                    <ul class="footer">
-                                        <li><a href="/forskning/finnforsker">Finn forsker</a></li>
-                                        <li><a href="/ekspertliste">Finn ekspert</a></li>
-                                        <li><a href="/prosjekter">Prosjekter</a></li>
-                                        <li><a href="/forskning/forskningsgrupper">Forskningsgrupper</a></li>
-                                    </ul>
-                                </div>
-
-                            </div>
-
-                            <div class="col-sm-4 margin20">
-                                <div class="footer-col">
-                                    <h3 class="heading"><a href="/om">Om UiT</a></h3>
-                                    <ul class="footer">
-                                        <li><a href="/campusoversikt">Campuser</a></li>
-                                        <li><a style="cursor:pointer;" data-toggle="modal" data-target="#enhModal">Fakulteter og enheter</a></li>
-                                        <li><a href="/om/orakelet">IT-brukerstøtte</a></li>
-                                    </ul>
-                                </div>
-
-                                <div class="footer-col">
-                                    <h3 class="heading"><a href="/aktuelt">Aktuelt</a></h3>
-                                    <ul class="footer">
-                                        <li><a href="https://uit.no/tavla">Arrangementer</a></li>
-                                        <li><a href="https://uit.no/nyheter">Nyheter</a></li>
-                                        <li><a href="https://uit.no/tmu">Tromsø Museum - Universitetsmuseet</a></li>
-                                        <li><a href="https://uit.no/ub">Universitetsbiblioteket</a></li>
-                                        <li><a href="https://uit.no/om/offjour">Offentlig journal</a></li>
-                                    </ul>
-                                </div>
-                                <div class="divide20"></div>
-
-                            </div>
-
-                            <div class="col-sm-4 margin20">
-                                <div class="footer-col">
-                                    <h3 class="heading"><a href="/om/art?p_document_id=339795&dim=179034">Kontakt oss</a></h3>
-
-                                    <ul class="address-infoFooter list-unstyled">
-                                        <li><i class="fa fa-phone"></i> 77 64 40 00</li>
-                                        <li><i class="fa fa-envelope"></i> <a href="mailto:postmottak@uit.no" style="color: rgb(72, 178, 210) !important;">postmottak@uit.no</a></li>
-                                        <li><i class="fa fa-home"></i> <a style="color: rgb(72, 178, 210) !important;" href="/campusoversikt">Post, besøks- og leveringsadresser</a><br></li>
-                                    </ul>
-                                    <ul class="address-infoFooter list-unstyled">
-                                        <li><i class="fa fa-envelope"></i> Fakturaadresse:<br>UiT Norges arktiske universitet<br>Fakturamottak<br />Postboks 6050 Langnes, 9037 Tromsø</li>
-                                        <li><a style="color: rgb(72, 178, 210) !important;" href="/om/orakelet/frag?p_document_id=331682">Cookies på uit.no</a>
-
-                                    </ul>
-
-                                    <div class="modal fade" id="enhModal" tabindex="-1" role="dialog" aria-labelledby="enhModalLabel" aria-hidden="true" style="display: none;">
-                                        <div class="modal-dialog">
-                                            <div class="modal-content">
-                                                <div class="modal-header">
-                                                    <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
-                                                    <h4 class="modal-title" id="enhModalLabel"><strong>Velg enhet</strong></h4>
-                                                </div>
-                                                <div class="modal-body">
-                                                    <iframe class="enhnav" title="Enhet" src="/inter15/publish/enhnav"></iframe>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <br />
-                                    <i class="fa fa-sign-in fa-green"></i> <a href="https://uit.no/securerefresh?p_url=https://uit.no/om/enhet/artikkel?p_document_id=329938&p_dimension_id=88111" title="Logg inn" class="forside_logginn">Logg inn</a>
-
-                                </div><!--footer col-->
-                            </div>
-                        </div><!--container?-->
-                    </div>
-                </div>
-
-            </div>
-        </div>
-
-
-
-
-        <div class="visible-xs">
-            <a class="btn btn-full footerknappindex navbar-fixed-bottom" role="button" data-toggle="collapse" href="#collapseExampleMobil" aria-expanded="false" aria-controls="collapseExampleMobil">
-                <i class="fa fa-arrows-v"></i> &nbsp;&nbsp; KONTAKT OSS / BUNNMENY &nbsp;&nbsp; <i class="fa fa-arrows-v"></i>
-            </a>
-
-
-            <div class="collapse footerindex" id="collapseExampleMobil">
-                <div class="well2">
-
-                    <div class="container">
-                        <div class="row">
-
-                            <div class="col-sm-12 margin30">
-                                <div class="footer-col">
-                                    <h3 class="heading">Lenker</h3>
-                                    <ul class="footer">
-                                        <li><a href="/utdanning">Utdanning</a></li>
-                                        <li><a href="/forskning">Forskning</a></li>
-                                        <li><a href="/aktuelt">Aktuelt</a></li>
-                                        <li><a href="/om">Om UiT</a></li>
-                                        <li><a href="/campusoversikt">Campusoversikt</a></li>
-                                        <li><a href="/organisasjon">Fakulteter og enheter</a><br /><br /></li>
-
-
-
-                                        <li>
-                                            <i class="fa fa-sign-in fa-green"></i> <a href="https://uit.no/securerefresh?p_url=https://uit.no/om/enhet/artikkel?p_document_id=329938&p_dimension_id=88111" title="Logg inn" class="forside_logginn">Logg inn</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-
-
-
-                        </div><!--footer col-->
-                    </div>
-                </div><!--container?-->
-            </div>
-        </div>
-
-
-
+        
 
     </div>
 
@@ -959,7 +731,7 @@ return false;
 }
 /* ]]> */
     </script>
-    <script type="text/javascript" src="/pls/portlet_manage_target.js" charset="utf-8"></script>
+    <script type="text/javascript" src="https://uit.no/pls/portlet_manage_target.js" charset="utf-8"></script>
 
 
     <!--Trackingkode for google analytics på uit.no -->
