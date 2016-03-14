@@ -15,21 +15,21 @@ title: Eutro
                     <p>Systemet har et enkelt og intuitivt felles grensesnitt. Det gir komplett oversikt over studiers samlede forskningsmateriale, b&aring;de biologisk materiale, helsedata og prosjektinformasjon</p>
                     <table style="width: 578px; height: 189px;" border="0">
                         <tr>
-                            <td><a title="Forskning og prosjektaktivitet" href="https://uit.no/ansatte/organisasjon/artikkel?p_document_id=330043&amp;p_dimension_id=88111&amp;p_menu=42374" target="_blank"><img style="margin: 0px;" title="Forsknings prosjekt.jpg" src="https://uit.no/Content/329937/Forsknings%20prosjekt.jpg" alt="" width="177" height="133" /></a></td>
-                            <td><a title="Datasett" href="https://uit.no/ansatte/organisasjon/artikkel?p_document_id=330046&amp;p_dimension_id=88111&amp;p_menu=42374" target="_blank"><img style="margin: 0px;" title="Datasett.jpg" src="https://uit.no/Content/329936/Datasett.jpg" alt="" width="173" height="135" /></a></td>
-                            <td><a title="Biobank" href="https://uit.no/ansatte/organisasjon/artikkel?p_document_id=330051&amp;p_dimension_id=88111&amp;p_menu=42374" target="_blank"><img style="margin: 0px;" title="Biobanker.jpg" src="https://uit.no/Content/329934/Biobanker.jpg" alt="" width="173" height="131" /></a></td>
+                            <td><a title="Forskning og prosjektaktivitet" href="http://uit.no/ansatte/organisasjon/artikkel?p_document_id=330043&amp;p_dimension_id=88111&amp;p_menu=42374" target="_blank"><img style="margin: 0px;" title="Forsknings prosjekt.jpg" src="http://uit.no/Content/329937/Forsknings%20prosjekt.jpg" alt="" width="177" height="133" /></a></td>
+                            <td><a title="Datasett" href="http://uit.no/ansatte/organisasjon/artikkel?p_document_id=330046&amp;p_dimension_id=88111&amp;p_menu=42374" target="_blank"><img style="margin: 0px;" title="Datasett.jpg" src="http://uit.no/Content/329936/Datasett.jpg" alt="" width="173" height="135" /></a></td>
+                            <td><a title="Biobank" href="http://uit.no/ansatte/organisasjon/artikkel?p_document_id=330051&amp;p_dimension_id=88111&amp;p_menu=42374" target="_blank"><img style="margin: 0px;" title="Biobanker.jpg" src="http://uit.no/Content/329934/Biobanker.jpg" alt="" width="173" height="131" /></a></td>
                         </tr>
                     </table>
                     <table border="0">
                         <tr>
                             <td>
-                                <h2 style="text-align: center;"><a title="Forskning og prosjektaktivitet" href="https://uit.no/om/enhet/artikkel?p_dimension_id=88111&amp;p_document_id=330043" target="_blank"><strong><strong>Forskning og prosjektaktivitet</strong></strong></a></h2>
+                                <h2 style="text-align: center;"><a title="Forskning og prosjektaktivitet" href="http://uit.no/om/enhet/artikkel?p_dimension_id=88111&amp;p_document_id=330043" target="_blank"><strong><strong>Forskning og prosjektaktivitet</strong></strong></a></h2>
                             </td>
                             <td style="text-align: center;">
-                                <h2><a title="Datasett" href="https://uit.no/om/enhet/artikkel?p_dimension_id=88111&amp;p_document_id=330046" target="_blank"><strong>Datasett</strong></a></h2>
+                                <h2><a title="Datasett" href="http://uit.no/om/enhet/artikkel?p_dimension_id=88111&amp;p_document_id=330046" target="_blank"><strong>Datasett</strong></a></h2>
                             </td>
                             <td>
-                                <h2 style="text-align: center;"><a title="Biobank" href="https://uit.no/om/enhet/artikkel?p_dimension_id=88111&amp;p_document_id=330051" target="_blank"><strong><strong>Biobanker</strong></strong></a></h2>
+                                <h2 style="text-align: center;"><a title="Biobank" href="http://uit.no/om/enhet/artikkel?p_dimension_id=88111&amp;p_document_id=330051" target="_blank"><strong><strong>Biobanker</strong></strong></a></h2>
                             </td>
                         </tr>
                         <tr>
@@ -79,17 +79,17 @@ title: Eutro
         <table border="0">
             <tr>
                 <td>
-                    <p>&nbsp;<img style="margin: 0px 0px;" title="Eutro - Logo.jpg" src="https://uit.no/Content/256333/attr=BCBBA1CBC7C3E742E040F28154A42E5B/Eutro-Logo.jpg" alt="" width="95" height="24" /></p>
-                    <p>Kontakt: <a href="https://uit.no/om/enhet/ansatte/person?p_document_id=41656&amp;p_dimension_id=88111">Hans-Henry Jacobsen</a></p>
+                    <p>&nbsp;<img style="margin: 0px 0px;" title="Eutro - Logo.jpg" src="http://uit.no/Content/256333/attr=BCBBA1CBC7C3E742E040F28154A42E5B/Eutro-Logo.jpg" alt="" width="95" height="24" /></p>
+                    <p>Kontakt: <a href="http://uit.no/om/enhet/ansatte/person?p_document_id=41656&amp;p_dimension_id=88111">Hans-Henry Jacobsen</a></p>
                     <hr />
                 </td>
             </tr>
             <tr>
                 <td>
                     <p>Lenker:</p>
-                    <p><a title="Rutiner for helseforskning" href="https://uit.no/ansatte/organisasjon/artikkel?p_menu=28713&amp;p_document_id=212253&amp;p_dimension_id=88108" target="_blank">Rutiner for helseforskning</a><br /><br /><a title="Registrering av helseforskningsprosjekt i EUTRO" href="https://uit.no/ansatte/organisasjon/artikkel?p_document_id=205857&amp;p_dimension_id=88127&amp;p_menu=49281" target="_blank">Registrering av helseforskningsprosjekt i EUTRO</a><br /><br /><a title="Oppbevaring av aktive forsknngsdata i EUTRO" href="https://uit.no/ansatte/organisasjon/artikkel?p_document_id=205855&amp;p_dimension_id=88127&amp;p_menu=49281" target="_blank">Oppbevaring av aktive forskningsdata i EUTRO</a></p>
+                    <p><a title="Rutiner for helseforskning" href="http://uit.no/ansatte/organisasjon/artikkel?p_menu=28713&amp;p_document_id=212253&amp;p_dimension_id=88108" target="_blank">Rutiner for helseforskning</a><br /><br /><a title="Registrering av helseforskningsprosjekt i EUTRO" href="http://uit.no/ansatte/organisasjon/artikkel?p_document_id=205857&amp;p_dimension_id=88127&amp;p_menu=49281" target="_blank">Registrering av helseforskningsprosjekt i EUTRO</a><br /><br /><a title="Oppbevaring av aktive forsknngsdata i EUTRO" href="http://uit.no/ansatte/organisasjon/artikkel?p_document_id=205855&amp;p_dimension_id=88127&amp;p_menu=49281" target="_blank">Oppbevaring av aktive forskningsdata i EUTRO</a></p>
                     <hr />
-                    <p><a href="https://uit.no/ansatte/organisasjon/artikkel?p_document_id=224677&amp;p_dimension_id=88127&amp;p_menu=28713" target="_blank"><img style="margin: 0px auto; display: block; vertical-align: top;" title="Cristin logo.jpg" src="https://uit.no/Content/304189/attr=C00FDB3273EA301FE040F28154A46987/Cristin%20logo.jpg" alt="" width="120" height="42" /></a></p>
+                    <p><a href="http://uit.no/ansatte/organisasjon/artikkel?p_document_id=224677&amp;p_dimension_id=88127&amp;p_menu=28713" target="_blank"><img style="margin: 0px auto; display: block; vertical-align: top;" title="Cristin logo.jpg" src="http://uit.no/Content/304189/attr=C00FDB3273EA301FE040F28154A46987/Cristin%20logo.jpg" alt="" width="120" height="42" /></a></p>
                     <hr />
                     <p></p>
                 </td>
