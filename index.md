@@ -32,7 +32,7 @@ title: Eutro
                                 <h2 style="text-align: center;"><a title="Biobank" href="http://uit.no/om/enhet/artikkel?p_dimension_id=88111&amp;p_document_id=330051" target="_blank"><strong><strong>Biobanker</strong></strong></a></h2>
                             </td>
                         </tr>
-                        <tr>
+                        <tr style="vertical-align: top;">
                             <td>
                                 <p>&nbsp;EUTRO skal gi en oversikt over all forskningsaktivitet som forg&aring;r p&aring; institusjonen. Systemet oppbevarer og administrer prosjektinformasjon, prosjektdeltakere, prosjektdokumenter, budsjettoversikt, publikasjonsoversikt og p&aring;minnelser for satte prosjekthendelser (som for eksempel tidsfrist for leveringer, utl&oslash;p av konsesjon osv.).<br /><br /></p>
                                 <p>&nbsp;Prosjektene er i tillegg n&aelig;rt integrert mot systemets datasettmodul i form av at det kan opplyses p&aring; detaljniv&aring; hvilke helsedata prosjektet har f&aring;tt utlevert. Det er ogs&aring; integrert mot biobankmodulen p&aring; samme m&aring;te, slik at en kan gi en oversikt over hvilke biologiske pr&oslash;ver et spesifikt prosjekt har f&aring;tt utlevert.</p>
