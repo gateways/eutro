@@ -9,7 +9,7 @@ title: Eutro
                 <h1>EUTRO Forskningsdata i system   </h1>
                 <p><strong>Verkt&oslash;yet im&oslash;tekommer de behov som helseforskningsinstitusjoner har n&aring;r det gjelder sikkerhet, h&aring;ndtering og administrasjon av sensitive forskningsdata og biologisk matriale.</strong></p>
                 <div class="nyhArtikkel">
-                    <p style="text-align: center;"><strong>Veletablert</strong></p>
+                    <h2 style="text-align: center;"><strong>Veletablert</strong></h2>
                     <p>EUTRO er utviklet over mange &aring;r ved Institutt for Samfunnsmedisin ved Det Helsevitenskaplige fakultet ved Universitetet i Troms&oslash;. Systemet brukes i store regionale, nasjonale og internasjonale studier.</p>
                     <h2 style="text-align: center;"><strong>Integrasjon</strong></h2>
                     <p>Systemet har et enkelt og intuitivt felles grensesnitt. Det gir komplett oversikt over studiers samlede forskningsmateriale, b&aring;de biologisk materiale, helsedata og prosjektinformasjon</p>
